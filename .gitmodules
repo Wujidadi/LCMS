@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Wujidadi/LCMS-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Wujidadi/LCMS-Backend.git
